@@ -52,3 +52,9 @@ matplotlib
 scipy  
 jupyter  
 
+##Installations
+git clone https://github.com/<your-username>/SVD-Pressure-Analysis.git
+cd SVD-Pressure-Analysis
+
+jupyter notebook SVD_Pressure_SpaceAndTime.ipynb
+
